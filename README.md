@@ -1,2 +1,11 @@
-# git-learning-
-git :)
+# git-learning
+
+GIT INIT 
+GIT STATUS 
+GIT ADD 
+GIT COMMIT
+GIT PUSH 
+GIT PUSH ORIGIN MASTER(OR ANYTHING ELSE MEAN NAME OF OTHER BRANCH)
+GIT LOG
+git commit -m "name msg"
+git diff(to see changes)
